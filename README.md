@@ -4,6 +4,14 @@
 
 **v1.0.0** - 초기 버전 (2025.03)
 
+## ⚠️ Sunset Notice
+
+이 저장소는 더 이상 유지보수하지 않습니다.
+BurnFat는 wodybody 모노레포로 통합되어 운영 중입니다.
+
+- New home: [https://github.com/Daesung-Kwon/wodybody](https://github.com/Daesung-Kwon/wodybody)
+- Service directory: `burnfat/`
+
 ## 프로젝트 개요
 
 - **기간**: 2.23 ~ 3.23
